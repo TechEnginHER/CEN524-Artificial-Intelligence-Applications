@@ -30,7 +30,7 @@ Each model pipeline includes:
 #### 1. Clone the repo and install required dependencies:
   
 ```bash 
-git clone https://github.com/your-username/cen-524-ai-projects.git
+git clone https://github.com/TechEnginHER/CEN524-Artificial-Intelligence-Applications.git
 ```
 ```bash
 pip install tensorflow scikit-learn pandas matplotlib`
