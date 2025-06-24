@@ -33,7 +33,7 @@ Each model pipeline includes:
 git clone https://github.com/TechEnginHER/CEN524-Artificial-Intelligence-Applications.git
 ```
 ```bash
-pip install tensorflow scikit-learn pandas matplotlib`
+pip install tensorflow scikit-learn pandas matplotlib
 ```
 #### 2. Launch Jupyter and run each notebook:
 
