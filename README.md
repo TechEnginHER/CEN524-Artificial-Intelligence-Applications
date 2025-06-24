@@ -19,35 +19,30 @@ Each model pipeline includes:
 4. Accuracy calculation and confusion matrix generation
 
 # Technologies Used
-Python 3
-
-Jupyter Notebook
-
-Scikit-learn
-
-TensorFlow / Keras
-
-Pandas
-
-NumPy
+* Python 3
+* Jupyter Notebook
+* Scikit-learn
+* TensorFlow / Keras
+* Pandas
+* NumPy
 
 # Getting Started
-1. Clone the repo and install required dependencies:
+#### 1. Clone the repo and install required dependencies:
+  
+```bash 
+git clone https://github.com/your-username/cen-524-ai-projects.git
+```
+```bash
+pip install tensorflow scikit-learn pandas matplotlib`
+```
+#### 2. Launch Jupyter and run each notebook:
 
-   
-`git clone https://github.com/your-username/cen-524-ai-projects.git`
-
-
-`pip install tensorflow scikit-learn pandas matplotlib`
-
-2. Launch Jupyter and run each notebook:
-
-`jupyter notebook`
-
-
+```bash 
+jupyter notebook
+```
 # Sample Outputs
 
-Iris Model Accuracy: 1.00  
-Wine SVM Accuracy: ~0.94  
-Breast Cancer KNN Accuracy: ~0.97
+* Iris Model Accuracy: 1.00  
+* Wine SVM Accuracy: ~0.94  
+* Breast Cancer KNN Accuracy: ~0.97
 
